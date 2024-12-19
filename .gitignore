@@ -1,0 +1,8 @@
+homework
+testing
+new.txt
+.venv
+*.pyc
+.DS_Store
+__pycache__
+.env
